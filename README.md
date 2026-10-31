@@ -1,5 +1,4 @@
-# YOLOv8 Movement Detection (Accuracy & Face Tracking Edition)
-
+# YOLOv8 Movement Detection 
 ## Objective
 This script processes an input video to track and extract human movement using YOLOv8 pose estimation. This updated version is optimized for **accuracy testing, facial focus, and clean visual output**. 
 
